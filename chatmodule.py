@@ -132,6 +132,7 @@ def get_bot_response(user_input):
           )
           data = json.loads(messages.data[0].to_json());
           print (data["content"][0]["text"]["value"])
+          return data["content"][0]["text"]["value"]  
         else:
           print(run.status)
 
