@@ -1,4 +1,5 @@
 import os
+import chatmodule 
 
 from flask import (Flask, redirect, render_template, request,
                    send_from_directory, url_for)
@@ -18,11 +19,12 @@ def favicon():
 
 @app.route('/hello', methods=['GET'])
 def hello():
-   name = request.form.get('name')
+   name = request.form.get('message')
 
    if name:
        print('Request for hello page received with name=%s' % name)
-       return "<this is my response>"
+      
+       return chatmodule.get_bot_response(name)
    else:
        print('Request for hello page received with no name or blank name -- redirecting')
        return "<this is my response>"
