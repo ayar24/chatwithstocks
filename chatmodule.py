@@ -94,23 +94,24 @@ def get_bot_response(user_input):
         tool_outputs = []
 
         # Loop through each tool in the required action section
-        for tool in run.required_action.submit_tool_outputs.tool_calls:
-        #  print(tool.function.arguments.Symbol)
-          if tool.function.name == "get_historical_data":
-            data = json.loads(tool.function.arguments)
-            # Extract the value associated with the key "Symbol"
-            symbol = data.get("symbol")
-            #print (tool.function.arguments)
-            tool_outputs.append({
-              "tool_call_id": tool.id,
-              "output": get_historical_data(symbol)
-            })
-          elif tool.function.name == "get_rain_probability":
-            tool_outputs.append({
-              "tool_call_id": tool.id,
-              "output": "0.06"
-            })
-          print (tool.function.name)
+        if run.required_action:
+            for tool in run.required_action.submit_tool_outputs.tool_calls:
+            #  print(tool.function.arguments.Symbol)
+              if tool.function.name == "get_historical_data":
+                data = json.loads(tool.function.arguments)
+                # Extract the value associated with the key "Symbol"
+                symbol = data.get("symbol")
+                #print (tool.function.arguments)
+                tool_outputs.append({
+                  "tool_call_id": tool.id,
+                  "output": get_historical_data(symbol)
+                })
+              elif tool.function.name == "get_rain_probability":
+                tool_outputs.append({
+                  "tool_call_id": tool.id,
+                  "output": "0.06"
+                })
+              print (tool.function.name)
 
         # Submit all tool outputs at once after collecting them in a list
         if tool_outputs:
