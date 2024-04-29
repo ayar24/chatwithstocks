@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.4" created="2024-04-29 20:23" -->
+	<!-- generator="WordPress/6.4.4" created="2024-04-29 20:45" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>GPT Stocks</title>
 	<link>https://marketchat.azurewebsites.net</link>
 	<description></description>
-	<pubDate>Mon, 29 Apr 2024 20:23:13 +0000</pubDate>
+	<pubDate>Mon, 29 Apr 2024 20:45:02 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://marketchat.azurewebsites.net</wp:base_site_url>
@@ -288,13 +288,15 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:navigation-link {"label":"Buy Credits","type":"page","id":40,"url":"https://marketchat.azurewebsites.net/buy-credits/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"My account","type":"page","id":13,"url":"https://marketchat.azurewebsites.net/my-account/","kind":"post-type"} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"My account","type":"page","id":13,"url":"https://marketchat.azurewebsites.net/my-account/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Sign-out","url":"/login?action=logout","kind":"custom"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2024-04-29 03:07:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-29 03:07:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-04-29 07:00:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-29 07:00:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-29 20:38:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-29 20:38:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[navigation]]></wp:post_name>
@@ -1250,9 +1252,9 @@ label[for=sac_name]{display:none!important}
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 0/24 objects using Redis
+Object Caching 1/24 objects using Redis
 Content Delivery Network via marketchat-fa8c8080758894ed-endpoint.azureedge.net (wp-admin)
 Database Caching using Redis (Request-wide modification query)
 
-Served from: _ @ 2024-04-29 20:23:13 by W3 Total Cache
+Served from: _ @ 2024-04-29 20:45:03 by W3 Total Cache
 -->
