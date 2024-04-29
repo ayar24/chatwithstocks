@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.4" created="2024-04-29 17:23" -->
+	<!-- generator="WordPress/6.4.4" created="2024-04-29 20:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>GPT Stocks</title>
 	<link>https://marketchat.azurewebsites.net</link>
 	<description></description>
-	<pubDate>Mon, 29 Apr 2024 17:23:09 +0000</pubDate>
+	<pubDate>Mon, 29 Apr 2024 20:23:13 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://marketchat.azurewebsites.net</wp:base_site_url>
@@ -952,17 +952,25 @@ footer {display:none !important}
 .recharge_button:hover{
  background-color:navy !important;
 }
+label[for=sac_chat]{display:none!important}
+label[for=sac_name]{display:none!important}
 #wps_recharge_wallet { width: 100%; line-height:3em}
 .wallet-tabs{display:none}
 .highlight { background-color:navy; font-color:white;color:white!important}
+
+#sac_chat {width:100% !important; border-radius:7px;	box-shadow:-1px 0px 9px 5px hsla(0, 0%, 7%, .11); padding:1em;font-size:large !important}
+#submitchat { width:100%;padding:1em;font-size:large !important; }
+
+.login .message, .login .success, .login .custom-message
+{border-left:0 !important}
 
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2024-04-29 05:35:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-29 05:35:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-04-29 17:18:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-29 17:18:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-29 20:21:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-29 20:21:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twentytwentyfour]]></wp:post_name>
@@ -1027,11 +1035,11 @@ footer {display:none !important}
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		<wp:meta_value><![CDATA[20]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		<wp:meta_value><![CDATA[20]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
@@ -1199,15 +1207,52 @@ footer {display:none !important}
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[logo]]></title>
+		<link>https://marketchat.azurewebsites.net/logo/</link>
+		<pubDate>Mon, 29 Apr 2024 18:35:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin15324]]></dc:creator>
+		<guid isPermaLink="false">/wp-content/uploads/2024/04/logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>95</wp:post_id>
+		<wp:post_date><![CDATA[2024-04-29 18:35:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-04-29 18:35:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-04-29 18:35:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-29 18:35:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[/wp-content/uploads/2024/04/logo.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/04/logo.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:174;s:6:"height";i:179;s:4:"file";s:16:"2024/04/logo.png";s:8:"filesize";i:7880;s:5:"sizes";a:2:{s:9:"thumbnail";a:5:{s:4:"file";s:16:"logo-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7184;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:16:"logo-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4048;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:4:"time";d:0.14;s:5:"bytes";i:1832;s:7:"percent";d:9.59;s:11:"size_before";i:19112;s:10:"size_after";i:17280;s:5:"lossy";i:0;s:9:"keep_exif";i:0;s:11:"api_version";s:3:"1.0";}s:5:"sizes";a:3:{s:4:"full";O:8:"stdClass":5:{s:4:"time";d:0.04;s:5:"bytes";i:847;s:7:"percent";d:10.75;s:11:"size_before";i:7880;s:10:"size_after";i:7033;}s:9:"thumbnail";O:8:"stdClass":5:{s:4:"time";d:0.05;s:5:"bytes";i:513;s:7:"percent";d:7.14;s:11:"size_before";i:7184;s:10:"size_after";i:6671;}s:29:"woocommerce_gallery_thumbnail";O:8:"stdClass":5:{s:4:"time";d:0.05;s:5:"bytes";i:472;s:7:"percent";d:11.66;s:11:"size_before";i:4048;s:10:"size_after";i:3576;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 1/24 objects using Redis
+Object Caching 0/24 objects using Redis
 Content Delivery Network via marketchat-fa8c8080758894ed-endpoint.azureedge.net (wp-admin)
 Database Caching using Redis (Request-wide modification query)
 
-Served from: _ @ 2024-04-29 17:23:10 by W3 Total Cache
+Served from: _ @ 2024-04-29 20:23:13 by W3 Total Cache
 -->
