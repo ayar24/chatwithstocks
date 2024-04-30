@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.4" created="2024-04-29 23:43" -->
+	<!-- generator="WordPress/6.4.4" created="2024-04-30 19:31" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>GPT Stocks</title>
 	<link>https://marketchat.azurewebsites.net</link>
 	<description></description>
-	<pubDate>Mon, 29 Apr 2024 23:43:20 +0000</pubDate>
+	<pubDate>Tue, 30 Apr 2024 19:31:13 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://marketchat.azurewebsites.net</wp:base_site_url>
@@ -307,15 +307,15 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 [sac_happens]
 <!-- /wp:shortcode -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
+<!-- wp:heading {"level":6} -->
+<h6 class="wp-block-heading">Please read out <a href="https://marketchat.azurewebsites.net/privacy-policy/" data-type="page" data-id="3">privacy policy</a> and make sure that you understand it.</h6>
+<!-- /wp:heading -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2024-04-29 03:03:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-29 03:03:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-04-29 22:51:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-29 22:51:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-30 18:09:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-30 18:09:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[chat]]></wp:post_name>
@@ -327,7 +327,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -456,56 +456,6 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://marketchat.azurewebsites.net/wp-global-styles-twentytwentytwo/</link>
-		<pubDate>Mon, 29 Apr 2024 03:27:38 +0000</pubDate>
-		<dc:creator><![CDATA[admin15324]]></dc:creator>
-		<guid isPermaLink="false">https://marketchat.azurewebsites.net/2024/04/29/wp-global-styles-twentytwentytwo/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2024-04-29 03:27:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-04-29 03:27:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-04-29 03:27:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-29 03:27:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-twentytwentytwo]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="twentytwentytwo"><![CDATA[twentytwentytwo]]></category>
-						</item>
-					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://marketchat.azurewebsites.net/wp-global-styles-twentytwentythree/</link>
-		<pubDate>Mon, 29 Apr 2024 03:28:30 +0000</pubDate>
-		<dc:creator><![CDATA[admin15324]]></dc:creator>
-		<guid isPermaLink="false">https://marketchat.azurewebsites.net/2024/04/29/wp-global-styles-twentytwentythree/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2024-04-29 03:28:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-04-29 03:28:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-04-29 03:28:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-29 03:28:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-twentytwentythree]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
-						</item>
 					<item>
 		<title><![CDATA[]]></title>
 		<link>https://marketchat.azurewebsites.net/8/</link>
@@ -1008,31 +958,6 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://marketchat.azurewebsites.net/wp-global-styles-twentytwentyfour/</link>
-		<pubDate>Mon, 29 Apr 2024 04:34:10 +0000</pubDate>
-		<dc:creator><![CDATA[admin15324]]></dc:creator>
-		<guid isPermaLink="false">https://marketchat.azurewebsites.net/2024/04/29/wp-global-styles-twentytwentyfour/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"styles":[],"settings":[],"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>16</wp:post_id>
-		<wp:post_date><![CDATA[2024-04-29 04:34:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-04-29 04:34:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-04-29 06:42:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-29 06:42:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfour]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
-						</item>
-					<item>
 		<title><![CDATA[Charge]]></title>
 		<link>https://marketchat.azurewebsites.net/?page_id=26</link>
 		<pubDate>Mon, 29 Apr 2024 05:26:39 +0000</pubDate>
@@ -1109,19 +1034,33 @@ label[for=sac_name]{display:none!important}
 .wallet-tabs{display:none}
 .highlight { background-color:navy; font-color:white;color:white!important}
 
-#sac_chat {width:100% !important; border-radius:7px;	box-shadow:-1px 0px 9px 5px hsla(0, 0%, 7%, .11); padding:1em;font-size:large !important}
-#submitchat { width:100%;padding:1em;font-size:large !important; }
+#sac_chat {width:100% !important; border-radius:15px;	box-shadow:0 1px 5px 0 rgba(0, 0, 0, .25); padding:1em;font-size:large !important}
+#submitchat { border-radius:15px; width:100%;padding:1em;font-size:large !important; 
+width: 3em !important;
+    float: right !important;
+    margin-right: 5px !important;
+    margin-top: -3em !important;
+    height: 2.5em;
+padding: 5px;}
 
 .login .message, .login .success, .login .custom-message
 {border-left:0 !important}
+#sac-output {border:none !important}
 
-]]></content:encoded>
+#user-credit{
+	font-size: larger;
+   color:grey;background:#f3f3f3;
+    border-radius: 15px;
+   
+    padding: 0.5em;
+    margin-bottom: 1em;
+}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2024-04-29 05:35:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-29 05:35:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-04-29 20:21:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-29 20:21:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-30 18:36:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-30 18:36:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twentytwentyfour]]></wp:post_name>
@@ -1425,6 +1364,78 @@ label[for=sac_name]{display:none!important}
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Submissions]]></title>
+		<link>https://marketchat.azurewebsites.net/submissions/</link>
+		<pubDate>Tue, 30 Apr 2024 16:51:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin15324]]></dc:creator>
+		<guid isPermaLink="false">https://marketchat.azurewebsites.net/submissions/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[RM_Front_Submissions]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>189</wp:post_id>
+		<wp:post_date><![CDATA[2024-04-30 16:51:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-04-30 16:51:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-04-30 16:51:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-30 16:51:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[submissions]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Password Recovery]]></title>
+		<link>https://marketchat.azurewebsites.net/password-recovery/</link>
+		<pubDate>Tue, 30 Apr 2024 16:51:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin15324]]></dc:creator>
+		<guid isPermaLink="false">https://marketchat.azurewebsites.net/password-recovery/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[RM_password_recovery]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>190</wp:post_id>
+		<wp:post_date><![CDATA[2024-04-30 16:51:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-04-30 16:51:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-04-30 16:51:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-30 16:51:34]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[password-recovery]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Login]]></title>
+		<link>https://marketchat.azurewebsites.net/login/</link>
+		<pubDate>Tue, 30 Apr 2024 16:51:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin15324]]></dc:creator>
+		<guid isPermaLink="false">https://marketchat.azurewebsites.net/login/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[RM_Login]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>191</wp:post_id>
+		<wp:post_date><![CDATA[2024-04-30 16:51:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-04-30 16:51:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-04-30 16:51:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-30 16:51:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[login]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>https://marketchat.azurewebsites.net/navigation/</link>
 		<pubDate>Mon, 29 Apr 2024 03:07:26 +0000</pubDate>
@@ -1454,6 +1465,81 @@ label[for=sac_name]{display:none!important}
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://marketchat.azurewebsites.net/wp-global-styles-twentytwentytwo/</link>
+		<pubDate>Mon, 29 Apr 2024 03:27:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin15324]]></dc:creator>
+		<guid isPermaLink="false">https://marketchat.azurewebsites.net/2024/04/29/wp-global-styles-twentytwentytwo/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2024-04-29 03:27:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-04-29 03:27:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-04-29 03:27:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-29 03:27:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentytwo]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentytwo"><![CDATA[twentytwentytwo]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://marketchat.azurewebsites.net/wp-global-styles-twentytwentythree/</link>
+		<pubDate>Mon, 29 Apr 2024 03:28:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin15324]]></dc:creator>
+		<guid isPermaLink="false">https://marketchat.azurewebsites.net/2024/04/29/wp-global-styles-twentytwentythree/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2024-04-29 03:28:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-04-29 03:28:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-04-29 03:28:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-29 03:28:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentythree]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://marketchat.azurewebsites.net/wp-global-styles-twentytwentyfour/</link>
+		<pubDate>Mon, 29 Apr 2024 04:34:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin15324]]></dc:creator>
+		<guid isPermaLink="false">https://marketchat.azurewebsites.net/2024/04/29/wp-global-styles-twentytwentyfour/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"styles":[],"settings":[],"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date><![CDATA[2024-04-29 04:34:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-04-29 04:34:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-04-29 06:42:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-29 06:42:45]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfour]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						</item>
 					<item>
 		<title><![CDATA[Blog Home]]></title>
 		<link>https://marketchat.azurewebsites.net/home/</link>
@@ -1694,15 +1780,90 @@ label[for=sac_name]{display:none!important}
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Pages]]></title>
+		<link>https://marketchat.azurewebsites.net/page/</link>
+		<pubDate>Tue, 30 Apr 2024 18:02:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin15324]]></dc:creator>
+		<guid isPermaLink="false">https://marketchat.azurewebsites.net/page/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main"} -->
+<main class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:spacer {"height":"var:preset|spacing|50"} -->
+<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:post-title {"textAlign":"center","level":1} /-->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:post-featured-image {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}}} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-content {"lock":{"move":false,"remove":true},"layout":{"type":"constrained"}} /--></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Display all static pages unless a custom template has been applied or a dedicated template exists.]]></excerpt:encoded>
+		<wp:post_id>210</wp:post_id>
+		<wp:post_date><![CDATA[2024-04-30 18:02:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-04-30 18:02:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-04-30 18:02:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-30 18:02:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Page No Title]]></title>
+		<link>https://marketchat.azurewebsites.net/page-no-title/</link>
+		<pubDate>Tue, 30 Apr 2024 18:03:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin15324]]></dc:creator>
+		<guid isPermaLink="false">https://marketchat.azurewebsites.net/page-no-title/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"margin":{"top":"0"}}}} -->
+<main class="wp-block-group" style="margin-top:0"><!-- wp:post-content {"lock":{"move":false,"remove":true},"layout":{"type":"constrained"}} /--></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>211</wp:post_id>
+		<wp:post_date><![CDATA[2024-04-30 18:03:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-04-30 18:03:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-04-30 18:06:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-30 18:06:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page-no-title]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-Object Caching 1/24 objects using Redis
-Content Delivery Network via marketchat-fa8c8080758894ed-endpoint.azureedge.net (wp-admin)
-Database Caching using Redis (Request-wide wp-admin)
-
-Served from: _ @ 2024-04-29 23:43:21 by W3 Total Cache
--->

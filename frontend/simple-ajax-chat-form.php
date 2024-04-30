@@ -227,14 +227,17 @@ function simple_ajax_chat() {
 				
 				<fieldset id="sac-user-chat">
 					<label for="sac_chat"><?php esc_html_e('Message', 'simple-ajax-chat') ?></label> 
-					<?php if ($use_textarea) : ?>
+					<div id="messagewithbutton">
+					<?php if ($use_textarea && 0) : ?>
 					
 					<textarea name="sac_chat" id="sac_chat" rows="5" cols="50" <?php echo $textarea_atts; ?> onkeypress="if (typeof pressedEnter == 'function') return pressedEnter(this,event);" placeholder="<?php esc_attr_e('Message', 'simple-ajax-chat') ?>"></textarea>
 					<?php else : ?>
 					
 					<input type="text" name="sac_chat" id="sac_chat" />
 					<?php endif; ?>
-					
+					<button type="submit" id="submitchat" name="submit" class="wp-block-button__link wp-element-button" value=""><span id="chatspan">
+					<svg width="24" height="24" viewBox="0 0 24 24" fill="none" class="text-white dark:text-black"><path d="M7 11L12 6L17 11M12 18V7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>	
+						</span></button> </div>
 				</fieldset>
 				
 				<fieldset id="sac_verify" style="display:none;height:0;width:0;">
@@ -244,7 +247,7 @@ function simple_ajax_chat() {
 				
 				<div id="sac-user-submit">
 					<div class="sac_js_nonce"></div>
-					<input type="submit" id="submitchat" name="submit" class="wp-block-button__link wp-element-button" value="<?php esc_attr_e('Submit', 'simple-ajax-chat'); ?>" />
+					
 					<input type="hidden" id="sac_lastID" value="<?php echo $lastID + 1; ?>" name="sac_lastID" />
 					<input type="hidden" name="sac_no_js" value="true" />
 					<input type="hidden" name="PHPSESSID" value="<?php echo session_id(); ?>" />
