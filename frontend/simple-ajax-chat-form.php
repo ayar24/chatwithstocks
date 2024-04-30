@@ -112,7 +112,7 @@ function simple_ajax_chat() {
 		$logged_username = sanitize_text_field($current_user->display_name);
 		$logged_username = apply_filters('sac_logged_username', $logged_username, $current_user);
 		
-		$results = $wpdb->get_results($wpdb->prepare("SELECT * FROM ". $table_prefix ."ajax_chat ORDER BY id DESC LIMIT %d", $max_chats));
+		$results = $wpdb->get_results($wpdb->prepare("SELECT * FROM ". $table_prefix ."ajax_chat WHERE name='" . $current_user->display_name ."' ORDER BY id DESC LIMIT %d", $max_chats));
 		
 		echo $custom_chat_pre;
 		
@@ -139,7 +139,11 @@ function simple_ajax_chat() {
 				$name_class = preg_replace("/[^A-Za-z0-9]/", '', $chat_name);
 				
 				$link_title = esc_attr__('Open link in new tab', 'simple-ajax-chat');
-				
+				if (substr($chat_text,0,5) == '!bot!') {
+					//$url = "Bot:";
+					$chat_name = "Bot";
+					$chat_text = substr($chat_text, 5);
+				}
 				$pattern = "/(http|https|ftp|ftps)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(\/\S*)?/";
 				$chat_text = preg_replace($pattern, '<a rel="external nofollow" href="\\0" title="'. $link_title .'">\\0</a>', $chat_text);
 				
@@ -149,7 +153,7 @@ function simple_ajax_chat() {
 					
 					$url = $chat_name;
 					
-				} else {
+				} else if ($url != 'Bot: ') {
 					
 					$url = '<a rel="external nofollow" href="'. $chat_url .'">'. $chat_name .'</a>';
 					

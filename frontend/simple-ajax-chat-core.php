@@ -135,7 +135,7 @@ if (wp_verify_nonce($sac_nonce, 'sac_nonce')) {
 			$response = file_get_contents($url_with_query);
 			
 			//do_action('sac_process_chat', $sac_user_name, $response, $sac_user_url);
-			sac_addData($sac_user_name, $response, $sac_user_url);
+			sac_addData($sac_user_name, '!bot!' . $response, $sac_user_url);
 			sac_deleteOld();
 			
 		} else {
