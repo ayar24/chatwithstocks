@@ -112,7 +112,7 @@ function simple_ajax_chat() {
 		$logged_username = sanitize_text_field($current_user->display_name);
 		$logged_username = apply_filters('sac_logged_username', $logged_username, $current_user);
 		
-		$results = $wpdb->get_results($wpdb->prepare("SELECT * FROM ". $table_prefix ."ajax_chat WHERE name='" . $current_user->display_name ."' ORDER BY id DESC LIMIT %d", $max_chats));
+		$results = $wpdb->get_results($wpdb->prepare("SELECT * FROM ". $table_prefix ."ajax_chat WHERE name='" . $current_user->display_name ."' OR name='The Admin' ORDER BY id DESC LIMIT %d", $max_chats));
 		
 		echo $custom_chat_pre;
 		
@@ -143,6 +143,11 @@ function simple_ajax_chat() {
 					//$url = "Bot:";
 					$chat_name = "Bot";
 					$chat_text = substr($chat_text, 5);
+				}
+				if ($chat_name == 'The Admin')
+				{
+					$chat_text = 'Hello, I am a language model with access to real-time market data. You can ask me about stock prices and trends.';
+					$chat_name = "Bot";
 				}
 				$pattern = "/(http|https|ftp|ftps)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(\/\S*)?/";
 				$chat_text = preg_replace($pattern, '<a rel="external nofollow" href="\\0" title="'. $link_title .'">\\0</a>', $chat_text);
